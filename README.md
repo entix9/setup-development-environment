@@ -14,3 +14,4 @@ In this setup session, we will install Visual Studio Code (VSCode) and some usef
 1. Download the vscode installer <a href="https://code.visualstudio.com/download">here</a>.
 2. Unzip the downloaded <code>VSCode-darwin-universal.zip</code> file.
 3. Drag <code>Visual Studio Code</code> into your <code>Applications</code> folder. You can find the <code>Applications</code> folder on the left side of any <code>finder window</code>.
+4. Finished!

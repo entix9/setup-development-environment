@@ -14,3 +14,16 @@ In this setup session, we will install Visual Studio Code (VSCode) and some usef
 1. Download the vscode installer <a href="https://code.visualstudio.com/download">here</a>.
 2. Unzip the downloaded <code>VSCode-darwin-universal.zip</code> file.
 3. Drag <code>Visual Studio Code</code> into your <code>Applications</code> folder. You can find the <code>Applications</code> folder on the left side of any <code>finder window</code>.
+
+### Installing Visual Studio Code Pulgins
+##### Finding the plugin store
+1. Open VSCode.
+2. On the left side-bar your should see four squares of which on is brone off. Click on this icon to open the plugin store.
+
+##### Install These Plugins:
+1. Facebook Theme
+2. Material Icon
+3. Emmet
+4. Gitlens
+5. Live Share
+6. Github
